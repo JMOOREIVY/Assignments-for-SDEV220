@@ -1,6 +1,7 @@
 #James Moore
 #FileName: Module 2 Lab - Cast Study If, else, and while James Moore.py
 #This app tests whether student are elligible for honors based upong their GPA 
+#https://github.com/JMOOREIVY/Assignments-for-SDEV220/blob/main/Module%202%20Lab%20-%20Case%20Study%20If%2C%20else%2C%20and%20while%20James%20Moore.py
 
 def main():
     #Welcome message
